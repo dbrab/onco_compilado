@@ -1,0 +1,495 @@
+{
+    "type_patient": [
+        {
+            "value": "#BT",
+            "name": "#BT"
+        },
+        {
+            "value": "#GCU",
+            "name": "#GCU"
+        }
+    ],
+    "gender": [
+        {
+            "value": "Masculino",
+            "name": "Masculino"
+        },
+        {
+            "value": "Femenino",
+            "name": "Femenino"
+        },
+        {
+            "value": "Otro",
+            "name": "Otro"
+        }
+    ],
+    "breed": [
+        {
+            "value": 1,
+            "name": "Caucásico"
+        },
+        {
+            "value": 2,
+            "name": "Afro"
+        },
+        {
+            "value": 3,
+            "name": "Asiatico"
+        }
+    ],
+    "type_doc": [
+        {
+            "value": "CI",
+            "name": "CI"
+        },
+        {
+            "value": "DNI Argentino",
+            "name": "DNI Argentino"
+        },
+        {
+            "value": "RG Brasileño",
+            "name": "RG Brasileño"
+        },
+        {
+            "value": "Pasaporte",
+            "name": "Pasaporte"
+        },
+        {
+            "value": "Otro",
+            "name": "Otro"
+        }
+    ],
+    "fumador_cant": [
+        {
+            "value": "menos de 10",
+            "name": "nemos de 10"
+        },
+        {
+            "value": "10 a 20",
+            "name": "10 a 20"
+        },
+        {
+            "value": "mas de 20",
+            "name": "mas de 20"
+        }
+    ],
+    "alcoholista_cant": [
+        {
+            "value": "menos de 1L",
+            "name": "menos de 1L"
+        },
+        {
+            "value": "1 a 2L",
+            "name": "1 a 2L"
+        },
+        {
+            "value": "mas de 2L",
+            "name": "mas de 2L"
+        }
+    ],
+    "vicio_periodo": [
+        {
+            "value": "0 a 6 meses",
+            "name": "0 a 6 meses"
+        },
+        {
+            "value": "6 a 12 meses",
+            "name": "6 a 12 meses"
+        },
+        {
+            "value": "más de 1 año",
+            "name": "más de 1 año"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "más de 10 años",
+            "name": "más de 10 años"
+        },
+        {
+            "value": "más de 20 años",
+            "name": "más de 20 años"
+        }
+    ],
+    "anticonceptivos_periodo": [
+        {
+            "value": "menos de 3 meses",
+            "name": "menos de 3 meses"
+        },
+        {
+            "value": "3 a 6 meses",
+            "name": "3 a 6 meses"
+        },
+        {
+            "value": "6 a 12 meses",
+            "name": "6 a 12 meses"
+        },
+        {
+            "value": "más de 1 año",
+            "name": "más de 1 año"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "más de 10 años",
+            "name": "más de 10 años"
+        }
+    ],
+    "amamantar_periodo": [
+        {
+            "value": "menos de 3 meses",
+            "name": "menos de 3 meses"
+        },
+        {
+            "value": "3 a 6 meses",
+            "name": "3 a 6 meses"
+        },
+        {
+            "value": "6 a 12 meses",
+            "name": "6 a 12 meses"
+        },
+        {
+            "value": "1 a 2 años",
+            "name": "1 a 2 años"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        }
+    ],
+    "hormonas_periodo": [
+        {
+            "value": "menos de 3 meses",
+            "name": "menos de 3 meses"
+        },
+        {
+            "value": "3 a 6 meses",
+            "name": "3 a 6 meses"
+        },
+        {
+            "value": "6 a 12 meses",
+            "name": "6 a 12 meses"
+        },
+        {
+            "value": "1 a 2 años",
+            "name": "1 a 2 años"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        }
+    ],
+    "mamografia_frecuencia": [
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "cada 5 años",
+            "name": "cada 5 años"
+        },
+        {
+            "value": "cada 10 años",
+            "name": "cada 10 años"
+        },
+        {
+            "value": "por indicación",
+            "name": "por indicación"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "pap_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "fecatest_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "fibrocolonoscopia_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "fibrogastroscopia_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "psa_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "rm_mamaria_frecuencia": [
+        {
+            "value": "semestral",
+            "name": "semestral"
+        },
+        {
+            "value": "anual",
+            "name": "anual"
+        },
+        {
+            "value": "bianual",
+            "name": "bianual"
+        },
+        {
+            "value": "más de 2 años",
+            "name": "más de 2 años"
+        },
+        {
+            "value": "más de 5 años",
+            "name": "más de 5 años"
+        },
+        {
+            "value": "otros",
+            "name": "otros"
+        }
+    ],
+    "antecedentes_dir_tipos": [
+        "Hijo",
+        "Padres",
+        "Hermanos"
+    ],
+
+    "criterios_oncologicos": [
+        {
+            "value": "oncológico",
+            "name": "oncológico"
+        },
+        {
+            "value": "no oncológico",
+            "name": "no oncológico"
+        },
+        {
+            "value": "diagnóstico",
+            "name": "diagnóstico"
+        }
+    ],
+    "criterios_tratamientos": [
+        {
+            "value": "neoadyuvante",
+            "name": "neoadyuvante"
+        },
+        {
+            "value": "adyuvante",
+            "name": "adyuvante"
+        },
+        {
+            "value": "paliativo",
+            "name": "paliativo"
+        }
+    ],
+    "tnm_t": [
+      {
+        "value": "Tx",
+        "name":"Tx"
+      },
+      {
+        "value": "T0",
+        "name":"T0"
+      },
+      {
+        "value": "Tis",
+        "name":"Tis"
+      },
+      {
+        "value": "T1",
+        "name":"T1"
+      },
+      {
+        "value": "T2",
+        "name":"T2"
+      },
+      {
+        "value": "T3",
+        "name":"T3"
+      },
+      {
+        "value": "T4",
+        "name":"T4"
+      }
+    ],
+    "tnm_n": [
+      {
+        "value": "Nx",
+        "name": "Nx"
+      },
+      {
+        "value": "N0",
+        "name": "N0"
+      },
+      {
+        "value": "N1",
+        "name": "N1"
+      },
+      {
+        "value": "N2",
+        "name": "N2"
+      },
+      {
+        "value": "N3",
+        "name": "N3"
+      }
+    ],
+    "tnm_m": [
+      {
+        "value": "Mx",
+        "name":"Mx"
+      },
+      {
+        "value": "M0",
+        "name":"M0"
+      },
+      {
+        "value": "M1",
+        "name":"M1"
+      },
+      {
+        "value": "M2",
+        "name":"M2"
+      },
+      {
+        "value": "M3",
+        "name":"M3"
+      }
+    ],
+    "status_solicitudes": [
+      {
+        "value": "Solicitado",
+        "name": "Solicitado"
+      },
+      {
+        "value": "En Proceso",
+        "name": "En Proceso"
+      },
+      {
+        "value": "Recibido",
+        "name": "Recibido"
+      },
+      {
+        "value": "Entregado",
+        "name": "Entregado"
+      }
+    ]
+}
+
